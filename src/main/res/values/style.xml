@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTabLayout">
+        <attr name="tab_textSize_unselect" format="dimension"/>
+        <attr name="tab_textColor_unselect" format="color"/>
+        <attr name="tab_textColor_select" format="color"/>
+        <attr name="tab_width" format="dimension"/>
+        <attr name="tab_height" format="dimension"/>
+        <attr name="indicator_height" format="dimension"/>
+        <attr name="tab_textSize_select" format="dimension"/>
+    </declare-styleable>
+</resources>
